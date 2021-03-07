@@ -1,0 +1,11 @@
+@media (max-width: 576px) {
+	.month_area_flex {
+    display: flex !important;
+    justify-content: center;
+    flex-direction: column;
+}
+	.calender .month_area {
+    max-width: 90%;
+    margin: 0 auto;
+}
+}
